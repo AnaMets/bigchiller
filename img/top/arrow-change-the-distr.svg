@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 7" width="24" height="7">
+	<defs>
+		<image width="24" height="7" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAHAQMAAAAoOR/1AAAABlBMVEUoKCgoKCiEGcyIAAAAAnRSTlMA/1uRIrUAAAAbSURBVHicY2Bg4GBgYGABYiaG////g2kInwMAK14DGjWZDVMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Warstwa 4" href="#img1" x="0" y="0" />
+</svg>

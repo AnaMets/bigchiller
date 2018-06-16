@@ -1,0 +1,65 @@
+@font-face{
+
+font-family: 'Futura';
+
+src: url('../css/fonts/futura-book.eot');
+
+src: url('../css/fonts/futura-book.eot?iefix') format('eot'),
+
+url('../css/fonts/futura-book.woff') format('woff'),
+
+url('../css/fonts/futura-book.ttf') format('truetype');
+
+font-weight: normal;
+
+font-style: normal;
+
+}
+
+@font-face{
+
+font-family: 'Futura-Bold';
+
+src: url('../css/fonts/futura-bold.eot');
+
+src: url('../css/fonts/futura-bold.eot?iefix') format('eot'),
+
+url('../css/fonts/futura-bold.woff') format('woff'),
+
+url('../css/fonts/futura-bold.ttf') format('truetype');
+
+font-weight: bold;
+
+font-style: normal;
+
+}
+
+html body {
+    font-size: 16px;
+    font-family: Futura, Arial, Helvetica;
+    max-width: 1440px;
+    margin: auto;
+    }
+.distr {
+    height: 40px;
+}
+body header nav ul {
+   display: flex;
+   margin-bottom: auto;
+}
+
+header nav ul li {
+   list-style-type: none;
+   margin: 0 0.5%;
+}
+
+#distributor {
+    color: #019fbc;
+    font-size: 14px;
+    font-family: Futura-Bold;
+}
+
+.menu {
+    height: 90px;
+    background-color: #f5f5f5;
+}
